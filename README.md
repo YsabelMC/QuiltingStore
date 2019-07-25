@@ -1,1 +1,1 @@
-# QuiltingStore
+MYA Quilts website
