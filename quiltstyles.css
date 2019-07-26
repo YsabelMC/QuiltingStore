@@ -1,0 +1,66 @@
+body {
+  background-image: url(images/background.png);
+  font-family: Trebuchet MS, Helvetica, sans-serif;
+}
+header {
+  background-color: rgba(255,255,255,.8);
+
+  margin-top: 0;
+
+  padding: 3em 1em 2em 1em;
+
+  text-align: center;
+
+}
+h1 {
+  letter-spacing: 8px;
+  text-shadow: .2em .2em .3em #9932cc;
+  color: #8b008b;
+}
+h2 {
+  font-size: 200%;
+}
+h3 {
+  font-size: 300%;
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+  font-size: 150%;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #800080;
+}
+a:visted {
+  color: #4682b4;
+  text-decoration: underline;
+}
+a:hover {
+  color: #4682b4;
+}
+.quiltforsale {
+  border-style: outset; 
+}
+.info {
+  margin-left: 40%
+}
+nav > ul {
+    list-style-type: none;
+    text-align: center;
+}
+nav > ul > li {
+    padding: 10px;
+}
+img {
+  float: left;
+}
+#container:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+
